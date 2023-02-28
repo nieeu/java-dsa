@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chap01-Java-Primer/Chap01-Java-Primer.iml" filepath="$PROJECT_DIR$/Chap01-Java-Primer/Chap01-Java-Primer.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-dsa.iml" filepath="$PROJECT_DIR$/java-dsa.iml" />
     </modules>
   </component>
